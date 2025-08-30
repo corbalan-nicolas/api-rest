@@ -1,0 +1,506 @@
+{
+  "basic": [
+    {
+      "character": "あ",
+      "romaji": "a",
+      "has_variants": false,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "い",
+      "romaji": "i",
+      "has_variants": false,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "う",
+      "romaji": "u",
+      "has_variants": false,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "え",
+      "romaji": "e",
+      "has_variants": false,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "お",
+      "romaji": "o",
+      "has_variants": false,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "か",
+      "romaji": "ka",
+      "has_variants": false,
+      "has_combinations": true,
+      "writing": {}
+    },
+    {
+      "character": "き",
+      "romaji": "ki",
+      "has_variants": true,
+      "has_combinations": true,
+      "writing": {}
+    },
+    {
+      "character": "く",
+      "romaji": "ku",
+      "has_variants": true,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "け",
+      "romaji": "ke",
+      "has_variants": true,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "こ",
+      "romaji": "ko",
+      "has_variants": true,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "さ",
+      "romaji": "sa",
+      "has_variants": true,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "し",
+      "romaji": "shi",
+      "has_variants": true,
+      "has_combinations": true,
+      "writing": {}
+    },
+    {
+      "character": "す",
+      "romaji": "su",
+      "has_variants": true,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "せ",
+      "romaji": "se",
+      "has_variants": true,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "そ",
+      "romaji": "so",
+      "has_variants": true,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "た",
+      "romaji": "ta",
+      "has_variants": true,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "ち",
+      "romaji": "chi",
+      "has_variants": true,
+      "has_combinations": true,
+      "writing": {}
+    },
+    {
+      "character": "つ",
+      "romaji": "tsu",
+      "has_variants": true,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "て",
+      "romaji": "te",
+      "has_variants": true,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "と",
+      "romaji": "to",
+      "has_variants": true,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "な",
+      "romaji": "na",
+      "has_variants": false,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "に",
+      "romaji": "ni",
+      "has_variants": false,
+      "has_combinations": true,
+      "writing": {}
+    },
+    {
+      "character": "ぬ",
+      "romaji": "nu",
+      "has_variants": false,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "ね",
+      "romaji": "ne",
+      "has_variants": false,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "の",
+      "romaji": "no",
+      "has_variants": false,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "は",
+      "romaji": "ha",
+      "has_variants": true,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "ひ",
+      "romaji": "hi",
+      "has_variants": true,
+      "has_combinations": true,
+      "writing": {}
+    },
+    {
+      "character": "ふ",
+      "romaji": "fu",
+      "has_variants": true,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "へ",
+      "romaji": "he",
+      "has_variants": true,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "ほ",
+      "romaji": "ho",
+      "has_variants": true,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "ま",
+      "romaji": "ma",
+      "has_variants": false,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "み",
+      "romaji": "mi",
+      "has_variants": false,
+      "has_combinations": true,
+      "writing": {}
+    },
+    {
+      "character": "む",
+      "romaji": "mu",
+      "has_variants": false,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "め",
+      "romaji": "me",
+      "has_variants": false,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "も",
+      "romaji": "mo",
+      "has_variants": false,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "や",
+      "romaji": "ya",
+      "has_variants": false,
+      "has_combinations": true,
+      "writing": {}
+    },
+    {
+      "character": "ゆ",
+      "romaji": "yi",
+      "has_variants": false,
+      "has_combinations": true,
+      "writing": {}
+    },
+    {
+      "character": "よ",
+      "romaji": "yu",
+      "has_variants": false,
+      "has_combinations": true,
+      "writing": {}
+    },
+    {
+      "character": "ら",
+      "romaji": "ra",
+      "has_variants": false,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "り",
+      "romaji": "ri",
+      "has_variants": false,
+      "has_combinations": true,
+      "writing": {}
+    },
+    {
+      "character": "る",
+      "romaji": "ru",
+      "has_variants": false,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "れ",
+      "romaji": "re",
+      "has_variants": false,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "ろ",
+      "romaji": "ro",
+      "has_variants": false,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "わ",
+      "romaji": "wa",
+      "has_variants": false,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "を",
+      "romaji": "wo",
+      "has_variants": false,
+      "has_combinations": false,
+      "writing": {}
+    },
+    {
+      "character": "ん",
+      "romaji": "n",
+      "has_variants": false,
+      "has_combinations": false,
+      "writing": {}
+    }
+  ],
+  "variants": [
+    {
+      "original": "か",
+      "character": "が",
+      "romaji": "ga",
+      "has_combinations": false,
+      "pronunciation": []
+    },
+    {
+      "original": "き",
+      "character": "ぎ",
+      "romaji": "gi",
+      "has_combinations": true,
+      "pronunciation": []
+    },
+    {
+      "original": "く",
+      "character": "ぐ",
+      "romaji": "gu",
+      "has_combinations": false,
+      "pronunciation": []
+    },
+    {
+      "original": "け",
+      "character": "げ",
+      "romaji": "ge",
+      "has_combinations": false,
+      "pronunciation": []
+    },
+    {
+      "original": "こ",
+      "character": "ご",
+      "romaji": "go",
+      "has_combinations": false,
+      "pronunciation": []
+    },
+    {
+      "original": "さ",
+      "character": "ざ",
+      "romaji": "za",
+      "has_combinations": false,
+      "pronunciation": []
+    },
+    {
+      "original": "し",
+      "character": "じ",
+      "romaji": "ji",
+      "has_combinations": true,
+      "pronunciation": []
+    },
+    {
+      "original": "す",
+      "character": "ず",
+      "romaji": "zu",
+      "has_combinations": false,
+      "pronunciation": []
+    },
+    {
+      "original": "せ",
+      "character": "ぜ",
+      "romaji": "ze",
+      "has_combinations": false,
+      "pronunciation": []
+    },
+    {
+      "original": "そ",
+      "character": "ぞ",
+      "romaji": "zo",
+      "has_combinations": false,
+      "pronunciation": []
+    },
+    {
+      "original": "た",
+      "character": "だ",
+      "romaji": "da",
+      "has_combinations": false,
+      "pronunciation": []
+    },
+    {
+      "original": "ち",
+      "character": "ぢ",
+      "romaji": "ji",
+      "has_combinations": true,
+      "pronunciation": []
+    },
+    {
+      "original": "つ",
+      "character": "づ",
+      "romaji": "dzu",
+      "has_combinations": false,
+      "pronunciation": []
+    },
+    {
+      "original": "て",
+      "character": "で",
+      "romaji": "de",
+      "has_combinations": false,
+      "pronunciation": []
+    },
+    {
+      "original": "と",
+      "character": "ど",
+      "romaji": "do",
+      "has_combinations": false,
+      "pronunciation": []
+    },
+    {
+      "original": "は",
+      "character": "ば",
+      "romaji": "ba",
+      "has_combinations": false,
+      "pronunciation": []
+    },
+    {
+      "original": "ひ",
+      "character": "び",
+      "romaji": "bi",
+      "has_combinations": true,
+      "pronunciation": []
+    },
+    {
+      "original": "ふ",
+      "character": "ぶ",
+      "romaji": "bu",
+      "has_combinations": false,
+      "pronunciation": []
+    },
+    {
+      "original": "へ",
+      "character": "べ",
+      "romaji": "be",
+      "has_combinations": false,
+      "pronunciation": []
+    },
+    {
+      "original": "ほ",
+      "character": "ぼ",
+      "romaji": "bo",
+      "has_combinations": false,
+      "pronunciation": []
+    },
+    {
+      "original": "は",
+      "character": "ぱ",
+      "romaji": "pa",
+      "has_combinations": false,
+      "pronunciation": []
+    },
+    {
+      "original": "ひ",
+      "character": "ぴ",
+      "romaji": "pi",
+      "has_combinations": true,
+      "pronunciation": []
+    },
+    {
+      "original": "ふ",
+      "character": "ぷ",
+      "romaji": "pu",
+      "has_combinations": false,
+      "pronunciation": []
+    },
+    {
+      "original": "へ",
+      "character": "ぺ",
+      "romaji": "pe",
+      "has_combinations": false,
+      "pronunciation": []
+    },
+    {
+      "original": "ほ",
+      "character": "ぽ",
+      "romaji": "po",
+      "has_combinations": false,
+      "pronunciation": []
+    }
+  ],
+  "combinations": [
+
+  ]
+}

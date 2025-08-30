@@ -1,0 +1,388 @@
+{
+  "あ": [
+    {
+      "id": "a1b2c3d4-1111-2222-3333-1234567890ab",
+      "text": "*A*pple",
+      "img": "apple.webp",
+      "tag": "JapanesePod101"
+    },
+    {
+      "id": "b2c3d4e5-2222-3333-4444-2345678901bc",
+      "text": "*Ah*! There is a snake",
+      "img": "snake.webp",
+      "tag": "The Japan Foundation"
+    }
+  ],
+  "い": [
+    {
+      "id": "c3d4e5f6-3333-4444-5555-3456789012cd",
+      "text": "Two *ii* side by side",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    },
+    {
+      "id": "d4e5f6a7-4444-5555-6666-4567890123de",
+      "text": "*E*ars",
+      "img": "ears.webp",
+      "tag": "The Japan Foundation"
+    },
+    {
+      "id": "00bbd5ef-aa50-4855-a371-4a882316b32e",
+      "text": "Hago música que entretiene",
+      "img": "just-testing.webp",
+      "tag": "Testing"
+    }
+  ],
+  "う": [
+    {
+      "id": "e5f6a7b8-5555-6666-7777-5678901234ef",
+      "text": "*Ugh*!",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "え": [
+    {
+      "id": "f6a7b8c9-6666-7777-8888-6789012345fa",
+      "text": "*E*nergeric Ninja",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "お": [
+    {
+      "id": "a7b8c9d0-7777-8888-9999-7890123456ab",
+      "text": "U.F.*O*.",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "か": [
+    {
+      "id": "b8c9d0e1-8888-9999-aaaa-8901234567bc",
+      "text": "Blade *cu*tting a stick",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "き": [
+    {
+      "id": "c9d0e1f2-9999-aaaa-bbbb-9012345678cd",
+      "text": "*Key*",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "く": [
+    {
+      "id": "d0e1f2a3-aaaa-bbbb-cccc-0123456789de",
+      "text": "*Cu*ckoo's beak",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "け": [
+    {
+      "id": "e1f2a3b4-bbbb-cccc-dddd-1234567890ef",
+      "text": "*Ke*g",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "こ": [
+    {
+      "id": "f2a3b4c5-cccc-dddd-eeee-2345678901fa",
+      "text": "Two *Ko*is",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "さ": [
+    {
+      "id": "a3b4c5d6-dddd-eeee-ffff-3456789012ab",
+      "text": "*Sa*d, sighing face",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "し": [
+    {
+      "id": "b4c5d6e7-eeee-ffff-0000-4567890123bc",
+      "text": "Fi*shi*ng hook",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "す": [
+    {
+      "id": "c5d6e7f8-ffff-0000-1111-5678901234cd",
+      "text": "*S*piral straw in a glass",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "せ": [
+    {
+      "id": "d6e7f8a9-0000-1111-2222-6789012345de",
+      "text": "Mouth about to *say* something",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "そ": [
+    {
+      "id": "e7f8a9b0-1111-2222-3333-7890123456ef",
+      "text": "Zigzag *se*wing stitch",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "た": [
+    {
+      "id": "f8a9b0c1-2222-3333-4444-8901234567fa",
+      "text": "*Ta*",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "ち": [
+    {
+      "id": "a9b0c1d2-3333-4444-5555-9012345678ab",
+      "text": "*Che*erleader",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "つ": [
+    {
+      "id": "b0c1d2e3-4444-5555-6666-0123456789bc",
+      "text": "*Tsu*nami",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "て": [
+    {
+      "id": "c1d2e3f4-5555-6666-7777-1234567890cd",
+      "text": "Dog's *ta*il",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "と": [
+    {
+      "id": "d2e3f4a5-6666-7777-8888-2345678901de",
+      "text": "*To*rnado",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "な": [
+    {
+      "id": "e3f4a5b6-7777-8888-9999-3456789012ef",
+      "text": "*Knot*",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "に": [
+    {
+      "id": "f4a5b6c7-8888-9999-aaaa-4567890123fa",
+      "text": "*Knee*",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "ぬ": [
+    {
+      "id": "a5b6c7d8-9999-aaaa-bbbb-5678901234ab",
+      "text": "Chopsticks holding some *no*odles",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "ね": [
+    {
+      "id": "b6c7d8e9-aaaa-bbbb-cccc-6789012345bc",
+      "text": "S*na*il hiding behing a *na*il",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "の": [
+    {
+      "id": "c7d8e9f0-bbbb-cccc-dddd-7890123456cd",
+      "text": "\"*NO...*\" sign",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "は": [
+    {
+      "id": "d8e9f0a1-cccc-dddd-eeee-8901234567de",
+      "text": "*Ha*",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "ひ": [
+    {
+      "id": "e9f0a1b2-dddd-eeee-ffff-9012345678ef",
+      "text": "*Hi*hihihi!",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "ふ": [
+    {
+      "id": "f0a1b2c3-eeee-ffff-0000-0123456789fa",
+      "text": "Mount *Fu*ji",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "へ": [
+    {
+      "id": "a1b2c3d4-ffff-0000-1111-1234567890ab",
+      "text": "Pointing up to *he*aven",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "ほ": [
+    {
+      "id": "b2c3d4e5-0000-1111-2222-2345678901bc",
+      "text": "*Ho*rse's face",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "ま": [
+    {
+      "id": "c3d4e5f6-1111-2222-3333-3456789012cd",
+      "text": "*Ma*n in a *ma*sk",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "み": [
+    {
+      "id": "d4e5f6a7-2222-3333-4444-4567890123de",
+      "text": "Do re *mi*",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "む": [
+    {
+      "id": "e5f6a7b8-3333-4444-5555-5678901234ef",
+      "text": "*Moooo*!",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "め": [
+    {
+      "id": "f6a7b8c9-4444-5555-6666-6789012345fa",
+      "text": "It's now a *me*ss!",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "も": [
+    {
+      "id": "a7b8c9d0-5555-6666-7777-7890123456ab",
+      "text": "*Mo*nitor lizard",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "や": [
+    {
+      "id": "b8c9d0e1-6666-7777-8888-8901234567bc",
+      "text": "*Yak*",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "ゆ": [
+    {
+      "id": "c9d0e1f2-7777-8888-9999-9012345678cd",
+      "text": "*U*nicorn",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "よ": [
+    {
+      "id": "d0e1f2a3-8888-9999-aaaa-0123456789de",
+      "text": "*Yo*yo dangling from a finger",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "ら": [
+    {
+      "id": "e1f2a3b4-9999-aaaa-bbbb-1234567890ef",
+      "text": "*Ra*bbit",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "り": [
+    {
+      "id": "f2a3b4c5-aaaa-bbbb-cccc-2345678901fa",
+      "text": "*Ri*ver",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "る": [
+    {
+      "id": "a3b4c5d6-bbbb-cccc-dddd-3456789012ab",
+      "text": "Hand holding a *ru*by",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "れ": [
+    {
+      "id": "b4c5d6e7-cccc-dddd-eeee-4567890123bc",
+      "text": "*Re*indeer",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "ろ": [
+    {
+      "id": "c5d6e7f8-dddd-eeee-ffff-5678901234cd",
+      "text": "The ruby ​​was *ro*bbed!",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "わ": [
+    {
+      "id": "d6e7f8a9-eeee-ffff-0000-6789012345de",
+      "text": "*Whi*te swan",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "を": [
+    {
+      "id": "e7f8a9b0-ffff-0000-1111-7890123456ef",
+      "text": "Crack in the *wa*ll",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ],
+  "ん": [
+    {
+      "id": "f8a9b0c1-0000-1111-2222-8901234567fa",
+      "text": "Italicized *N*",
+      "img": "filename.webp",
+      "tag": "JapanesePod101"
+    }
+  ]
+}
