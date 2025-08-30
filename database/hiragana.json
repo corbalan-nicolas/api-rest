@@ -501,6 +501,170 @@
     }
   ],
   "combinations": [
-
+    {
+      "character": "きゃ",
+      "romaji": "kya",
+      "pronunciation": []
+    },
+    {
+      "character": "きゅ",
+      "romaji": "kyu",
+      "pronunciation": []
+    },
+    {
+      "character": "きょ",
+      "romaji": "kyo",
+      "pronunciation": []
+    },
+    {
+      "character": "しゃ",
+      "romaji": "sha",
+      "pronunciation": []
+    },
+    {
+      "character": "しゅ",
+      "romaji": "shu",
+      "pronunciation": []
+    },
+    {
+      "character": "しょ",
+      "romaji": "sho",
+      "pronunciation": []
+    },
+    {
+      "character": "ちゃ",
+      "romaji": "cha",
+      "pronunciation": []
+    },
+    {
+      "character": "ちゅ",
+      "romaji": "chu",
+      "pronunciation": []
+    },
+    {
+      "character": "ちょ",
+      "romaji": "cho",
+      "pronunciation": []
+    },
+    {
+      "character": "にゃ",
+      "romaji": "nya",
+      "pronunciation": []
+    },
+    {
+      "character": "にゅ",
+      "romaji": "nyu",
+      "pronunciation": []
+    },
+    {
+      "character": "にょ",
+      "romaji": "nyo",
+      "pronunciation": []
+    },
+    {
+      "character": "ひゃ",
+      "romaji": "hya",
+      "pronunciation": []
+    },
+    {
+      "character": "ひゅ",
+      "romaji": "hyu",
+      "pronunciation": []
+    },
+    {
+      "character": "ひょ",
+      "romaji": "hyo",
+      "pronunciation": []
+    },
+    {
+      "character": "みゃ",
+      "romaji": "mya",
+      "pronunciation": []
+    },
+    {
+      "character": "みゅ",
+      "romaji": "myu",
+      "pronunciation": []
+    },
+    {
+      "character": "みょ",
+      "romaji": "myo",
+      "pronunciation": []
+    },
+    {
+      "character": "りゃ",
+      "romaji": "rya",
+      "pronunciation": []
+    },
+    {
+      "character": "りゅ",
+      "romaji": "ryu",
+      "pronunciation": []
+    },
+    {
+      "character": "りょ",
+      "romaji": "ryo",
+      "pronunciation": []
+    },
+    {
+      "character": "ぎゃ",
+      "romaji": "gya",
+      "pronunciation": []
+    },
+    {
+      "character": "ぎゅ",
+      "romaji": "gyu",
+      "pronunciation": []
+    },
+    {
+      "character": "ぎょ",
+      "romaji": "gyo",
+      "pronunciation": []
+    },
+    {
+      "character": "じゃ",
+      "romaji": "ja",
+      "pronunciation": []
+    },
+    {
+      "character": "じゅ",
+      "romaji": "ju",
+      "pronunciation": []
+    },
+    {
+      "character": "じょ",
+      "romaji": "jo",
+      "pronunciation": []
+    },
+    {
+      "character": "びゃ",
+      "romaji": "bya",
+      "pronunciation": []
+    },
+    {
+      "character": "びゅ",
+      "romaji": "byu",
+      "pronunciation": []
+    },
+    {
+      "character": "びょ",
+      "romaji": "byo",
+      "pronunciation": []
+    },
+    {
+      "character": "ぴゃ",
+      "romaji": "pya",
+      "pronunciation": []
+    },
+    {
+      "character": "ぴゅ",
+      "romaji": "pyu",
+      "pronunciation": []
+    },
+    {
+      "character": "ぴょ",
+      "romaji": "pyo",
+      "pronunciation": []
+    }
   ]
 }
