@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+  --col-red: #b84947;
+  --col-dirt: #c27c46;
+  --col-grass: #487c47;
+  --col-violet: #5b5399;
+  --col-sky: #00aced;
+  --col-sky-dark: #4d85a4;
+}
+
+.characters-container {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  
+  background: white;
+  text-align: center;
+}
+
+.table {
+  border-collapse: separate;
+}
+
+.table .td {
+  padding: .5rem;
+}
+
+.table .td__bg {
+  background-color: hsl(0 0% 0 / .1);
+  transition: background-color 100ms ease;
+  cursor: pointer;
+
+  &:hover {
+    background-color: hsl(0 0% 0 / .2);
+  }
+
+  &:active {
+    background-color: hsl(0 0% 0 / .3);
+  }
+}
+
+.btn {
+  padding: .5rem 1rem;
+  border-radius: .25rem;
+
+  background-color: var(--col-sky-dark);
+  color: white;
+
+  transition: 200ms ease;
+
+  &:hover {
+    background-color: #5194b8;
+  }
+
+  &:active {
+    background-color: #427997;
+  }
+}
+
+.btn.active {
+    background-color: hsl(0 0% 0 / .2);
+}
+
+pre {
+  max-height: 300px;
+  overflow: auto;
+}
+
+.container {
+  max-width: min(100% - 32px, 1280px);
+  margin-inline: auto;
+}
+
+.container--wide {
+  max-width: min(100% - 32px, 1680px);
+}
+
+#app {
+  min-height: 100dvh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+
+  font-family: 'Jost', sans-serif;
+}
+
+header {
+  background-color: var(--col-red);
+  text-align: center;
+  color: white;
+  
+  padding-block: 1.5rem 1rem;
+
+  p {
+    font-size: .9rem;
+  }
+}
+
+h1 {
+  font-size: 2rem;
+  line-height: 2rem;
+}
+
+footer {
+  background-color: #282c34;
+  color: white;
+  text-align: center;
+
+  padding-block: .5rem;
+}
+
+.link {
+  color: #118dba;
+  text-decoration: underline;
+}
+
+.pill {
+  border-radius: 3px;
+  padding: .2rem .5rem;
+}
+
+.pill--green {
+  background-color: greenyellow;
+}
+
+.pill--cyan {
+  background-color: cyan;
+}
+
+.pill--red {
+  background-color: indianred;
+  color: white;
+}
+
+.pill--violet {
+  background-color: rebeccapurple;
+  color: white;
+}
+
+table {
+  border: 1px solid red;
+  width: 100%;
+}
+
+tr {
+  border: 1px solid black;
+}
+
+th {
+  border: 1px solid lime;
+  width: 100%;
+  font-size: 1.25rem;
+  text-align: left;
+  font-weight: 500;
+  padding-block: 1rem .5rem
+}
+
+td {
+  border: 1px solid rebeccapurple;
+  vertical-align: super;
+}
